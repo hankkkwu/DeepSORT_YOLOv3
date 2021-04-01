@@ -41,8 +41,11 @@ To train the deep association metric model on your datasets you can reference to
 # Result Video
 
 1. Result video on MOT16-13
+
 [![result video1](http://img.youtube.com/vi/m3f50s5XJs4/0.jpg)](https://www.youtube.com/watch?v=m3f50s5XJs4 "multiple Objects Tracking1")
 
 
+
 2. Result video on Taiwan street
+
 [![result video2](http://img.youtube.com/vi/pYXLm9WRTwk/0.jpg)](https://www.youtube.com/watch?v=pYXLm9WRTwk "multiple Objects Tracking2")
